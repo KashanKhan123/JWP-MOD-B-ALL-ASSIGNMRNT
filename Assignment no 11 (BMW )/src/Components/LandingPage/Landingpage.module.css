@@ -1,0 +1,10 @@
+.heading{
+    text-decoration: underline;
+}
+/* Custom CSS */
+.purple-btn {
+    background-color: #800080; /* Purple color */
+    color: white; /* White text color */
+    border: none; /* Remove default border */
+    padding: 0.5rem 1rem; /* Add padding */
+  }
